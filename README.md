@@ -68,8 +68,5 @@ Ensure this file is placed in a data/ directory or update the path in the notebo
 - Visual techniques (like PCA) aid in interpreting high-dimensional anomaly patterns.
 
  ### Acknowledgments
- - Scikit-learn
- - Pandas
- - NumPy
- - Matplotlib & Seaborn
- - Kaggle for providing the dataset
+ 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-F7931E?logo=scikit-learn) ![Pandas](https://img.shields.io/badge/Pandas-1.x-150458?logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-3776AB?logo=python) ![Seaborn](https://img.shields.io/badge/Seaborn-0.11+-579ACA?logo=python) ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?logo=kaggle)
