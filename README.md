@@ -52,24 +52,24 @@ Ensure this file is placed in a data/ directory or update the path in the notebo
 | F1-Score  | Harmonic mean of precision and recall       |
 
 ### Visualizations
-	•	Feature Distributions: Helps understand variable importance.
-	•	PCA Plot: Visual clustering patterns.
-	•	Fraud vs Normal Distribution: Visual identification of anomalies.
+- **Feature Distributions**: Helps understand variable importance.
+- **PCA Plot**: Visual clustering patterns.
+- **Fraud vs Normal Distribution**: Visual identification of anomalies.
 
 ### Custom Functions
-	•	plot_confusion_matrix(): For detailed error analysis.
-	•	evaluate_model(): Precision, recall, F1-score calculator.
-	•	plot_pca_clusters(): Visualizes anomaly clusters in 2D space.
+- **plot_confusion_matrix()**: For detailed error analysis.
+- **evaluate_model()**: Precision, recall, F1-score calculator.
+- **plot_pca_clusters()**: Visualizes anomaly clusters in 2D space.
 
 ### Key Learnings
-	•	Anomaly detection is crucial for highly imbalanced datasets like fraud detection.
-	•	Unsupervised models like Isolation Forest can perform well without labeled data.
-	•	Evaluation should focus on recall and precision, not accuracy.
-	•	Visual techniques (like PCA) aid in interpreting high-dimensional anomaly patterns.
+- Anomaly detection is crucial for highly imbalanced datasets like fraud detection.
+- Unsupervised models like Isolation Forest can perform well without labeled data.
+- Evaluation should focus on recall and precision, not accuracy.
+- Visual techniques (like PCA) aid in interpreting high-dimensional anomaly patterns.
 
  ### Acknowledgments
-	•	Scikit-learn
-	•	Pandas
-	•	NumPy
-	•	Matplotlib & Seaborn
-	•	Kaggle for providing the dataset
+ - Scikit-learn
+ - Pandas
+ - NumPy
+ - Matplotlib & Seaborn
+ - Kaggle for providing the dataset
